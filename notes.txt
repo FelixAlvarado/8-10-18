@@ -12,3 +12,10 @@ Describe when it may be ideal to utilize bubble sort
 When trying to find the largest k elements of an array, you would use bubble sort, but only make k times. At the end, the last k items of the arrya are the k largest numbers. 
 time complexity: O(nk)
 
+what is vertical scaling? 
+
+scaling by adding more power (CPU, RAM) to an existing machine. 
+
+What is horizontal scaling? 
+
+Scaling by adding more machines. 
