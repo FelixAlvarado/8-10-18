@@ -1,0 +1,14 @@
+What is the time complexity of buble sort? what are the steps for this algorithm? 
+
+time: O(n^2) 
+
+1. Go through the array 
+2. if the next element is smaller (or larger depending on you're doing ascending/descending), with switch the elements.
+3. If any elements were switched during the run through, run through the arrray gain 
+4. repeat the runthroughs until no switches have been made. 
+
+Describe when it may be ideal to utilize bubble sort 
+
+When trying to find the largest k elements of an array, you would use bubble sort, but only make k times. At the end, the last k items of the arrya are the k largest numbers. 
+time complexity: O(nk)
+
