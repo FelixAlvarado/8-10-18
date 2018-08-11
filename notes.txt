@@ -19,3 +19,7 @@ scaling by adding more power (CPU, RAM) to an existing machine.
 What is horizontal scaling? 
 
 Scaling by adding more machines. 
+
+What doe sthe length attribute refer to on a Function in Javacript? 
+
+It refers to the number of parameters the funciton takes. The rest operator isn't included. 
